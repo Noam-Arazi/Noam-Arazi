@@ -1,6 +1,6 @@
 # Noam Arazi
 
-I work on AI and data for the public sector — building LLM systems that do real work, measured with evals, with a human making the final call.
+I work on AI and data for the public sector — building LLM systems that do real work, measured with evals, with a human-in-the-loop for the decision making.
 
 ## Projects
 
